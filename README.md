@@ -1,4 +1,4 @@
-# Bank-Management
+# Bank-Management System
 
 Built a C++ console application with basic banking functionality using Object Oriented Programming concepts
 to obtain the practical significance of OOPs.
